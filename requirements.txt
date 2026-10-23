@@ -1,0 +1,15 @@
+biopython>=1.85
+pandas>=2.2
+numpy>=1.26
+pyarrow>=17.0
+requests>=2.32
+python-dateutil>=2.9
+scikit-learn>=1.5
+sentence-transformers>=3.0
+umap-learn>=0.5
+hdbscan>=0.8
+plotly>=5.24
+streamlit>=1.50
+bertopic>=0.16
+networkx>=3.3
+pytest>=8.0
